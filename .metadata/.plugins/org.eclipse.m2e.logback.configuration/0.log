@@ -1,0 +1,21 @@
+2021-05-18 18:50:18,327 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-18 18:51:12,045 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-18 18:51:38,492 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Assignment:Prognuer:0.0.1-SNAPSHOT @ C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\pom.xml.
+2021-05-18 18:51:38,492 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Assignment:Prognuer:0.0.1-SNAPSHOT @ C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\pom.xml.
+2021-05-18 18:51:48,885 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-18 18:51:48,886 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\src\main\resources
+2021-05-18 18:51:48,890 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-18 18:51:48,890 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\src\test\resources
+2021-05-18 18:51:51,050 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Assignment:Prognuer:0.0.1-SNAPSHOT @ C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\pom.xml.
+2021-05-18 18:51:53,545 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-18 18:51:53,545 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\src\main\resources
+2021-05-18 18:51:53,549 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-18 18:51:53,549 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\src\test\resources
+2021-05-18 18:51:55,751 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-18 18:51:55,751 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\src\main\resources
+2021-05-18 18:51:55,753 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-18 18:51:55,753 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\src\test\resources
+2021-05-18 18:51:57,434 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-18 18:51:57,434 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\src\main\resources
+2021-05-18 18:51:57,436 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-18 18:51:57,436 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shweta.kasturkar\Downloads\Progneur Assignment\Progneur\src\test\resources
